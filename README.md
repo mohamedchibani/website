@@ -2,6 +2,6 @@
 
 this is my first site
 
-my second linee
+update this file readme on update-readme branch**
 
-update this file readme on update-readme branch
+i am fixed the problem
